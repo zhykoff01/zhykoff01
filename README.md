@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @zhykoff01
-- 👀 Interested in programming and crypto industry
+- 👀 Interested in programming
 - 🌱 I'm currently learning Python
 - 💞️ I invite you to cooperate...
 - 📫 How to contact me:
